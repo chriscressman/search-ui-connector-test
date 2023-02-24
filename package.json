@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@elastic/search-ui-app-search-connector": "^1.19.1"
+  }
+}
